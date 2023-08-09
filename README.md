@@ -41,3 +41,9 @@ Currently working on: absolutely nothing.
 + Redmi 8 (olive)
 + Samsung galaxy j3 2016
 + Samsung tab A 8.0 2019 (sm-t290)
+
+<br>
+
+<h4 align="center">Contacts</h4>
++ Discord: dtxc
++ Telegram: dtxc0
