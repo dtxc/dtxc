@@ -1,5 +1,5 @@
 <h2 align="center">Who the fuck am I?</h2>
-I am 15 years old, programmer and android developer (limited by computer specs). I code in 6 languages (soon to be 7) which are listed below and I have 4 years of experience. Mostly inactive on github. <br>
+Programmer and android developer (limited by computer specs). I code in 6 languages (soon to be 7) which are listed below and I have 4 years of experience. Mostly inactive on github. <br>
 Currently working on: absolutely nothing.
 
 ![](https://komarev.com/ghpvc/?username=dtxc)
