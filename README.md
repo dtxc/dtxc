@@ -1,5 +1,5 @@
 <h2 align="center">Who the fuck am I?</h2>
-Programmer and android developer (limited by computer specs). I code in 6 languages (soon to be 7) which are listed below and I have 4 years of experience. Mostly inactive on github. <br>
+Programmer and android developer (limited by computer specs). I code in 6 languages which are listed below and I have 4 years of experience. Mostly inactive on github. <br>
 Currently working on: absolutely nothing.
 
 ![](https://komarev.com/ghpvc/?username=dtxc)
@@ -12,7 +12,6 @@ Currently working on: absolutely nothing.
 + Java
 + Kotlin
 + Assembly
-+ Golang (currently learning)
 
 <br>
 
@@ -24,11 +23,12 @@ Currently working on: absolutely nothing.
 + [Zipbomb generator](https://github.com/dtxc/zipbomb-generator) <sub>might be very simple, but yet its one of my favorites</sub>
 + Halium port for redmi 8 <sub>didn't go very well</sub>
 + Dualshock 4 driver for linux
++ [Video generator](https://github.com/dtxc/video-generator)
 + [Osu droid mod](https://github.com/dtxc/osu-droid-mod)
 
 <br>
 
-<h3 align="center">Github statistics</h3>
+<h3 align="center">Statistics</h3>
 <img align="center" width="90%" height="200" src="https://github-readme-stats.vercel.app/api/top-langs/?username=dtxc&&layout=compact&langs_count=6&theme=dark">
 <img align="center" width="90%" height="200" src="https://github-readme-stats.vercel.app/api?username=dtxc&show_icons=true&hide_border=false&line_height=20&show_owner=true&theme=dark"/>
 
