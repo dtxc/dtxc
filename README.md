@@ -37,7 +37,7 @@ Currently working on: absolutely nothing.
 <h4 align="center">Main computer specs</h4>
 
 + CPU: Ryzen 5 5500
-+ RAM: 32 GB DD4
++ RAM: 32 GB DDR4 
 + GPU: Radeon RX 6600 8 GB
 + SSD: 512 GB M.2 NVMe
 + HDD: 2 TB
