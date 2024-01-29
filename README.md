@@ -1,5 +1,5 @@
 <h2 align="center">Who the fuck am I?</h2>
-Programmer and android developer (limited by computer specs). I code in 6 languages which are listed below and I have 4 years of experience. Mostly inactive on github. <br>
+Programmer and android developer. I code in 6 languages which are listed below and I have 4 years of experience. Mostly inactive on github. <br>
 Currently working on: absolutely nothing.
 
 ![](https://komarev.com/ghpvc/?username=dtxc)
@@ -34,7 +34,14 @@ Currently working on: absolutely nothing.
 
 <hr>
 
-<h4 align="center">Devices</h4>
+<h4 align="center">Main computer specs</h4>
++ CPU: Ryzen 5 5500
++ RAM: 32 GB DD4
++ GPU: Radeon RX 6600 8 GB
++ SSD: 512 GB M.2 NVMe
++ HDD: 2 TB
+
+<h4 align="center">Other devices</h4>
 
 + HP Laptop 15-da0xxx
 + Redmi K20 pro/Mi 9T pro (raphael)
