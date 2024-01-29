@@ -35,6 +35,7 @@ Currently working on: absolutely nothing.
 <hr>
 
 <h4 align="center">Main computer specs</h4>
+
 + CPU: Ryzen 5 5500
 + RAM: 32 GB DD4
 + GPU: Radeon RX 6600 8 GB
