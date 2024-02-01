@@ -1,6 +1,6 @@
 <h2 align="center">Who the fuck am I?</h2>
 Programmer and android developer. I code in 6 languages which are listed below and I have 4 years of experience. Mostly inactive on github. <br>
-Currently working on: absolutely nothing.
+<br>
 
 ![](https://komarev.com/ghpvc/?username=dtxc)
 <hr>
@@ -9,9 +9,9 @@ Currently working on: absolutely nothing.
 + Python
 + C
 + C++
-+ Java
 + Kotlin
 + Assembly
++ Java
 
 <br>
 
@@ -30,7 +30,6 @@ Currently working on: absolutely nothing.
 
 <h3 align="center">Statistics</h3>
 <img align="center" width="90%" height="200" src="https://github-readme-stats.vercel.app/api/top-langs/?username=dtxc&&layout=compact&langs_count=6&theme=dark">
-<img align="center" width="90%" height="200" src="https://github-readme-stats.vercel.app/api?username=dtxc&show_icons=true&hide_border=false&line_height=20&show_owner=true&theme=dark"/>
 
 <hr>
 
