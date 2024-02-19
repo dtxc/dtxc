@@ -43,6 +43,7 @@ currently learning tensorflow
 + GPU: PowerColor Radeon RX 6600 8 GB
 + SSD: 512 GB M.2 NVMe
 + HDD: 2 TB
++ MB:  ASRock A520M-HVS
 
 <h4 align="center">Other devices</h4>
 
