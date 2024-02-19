@@ -1,5 +1,8 @@
-<h2 align="center">Who the fuck am I?</h2>
-Programmer and android developer. I code in 6 languages which are listed below and I have 4 years of experience. Mostly inactive on github. <br>
+<h2 align="center">Who am I?</h2>
+Low level programmer and android developer. I code in 6 languages which are listed below and I have 4 years of experience. Mostly inactive on github. 
+<br>
+currently learning tensorflow
+<br>
 <br>
 
 ![](https://komarev.com/ghpvc/?username=dtxc)
@@ -36,7 +39,7 @@ Programmer and android developer. I code in 6 languages which are listed below a
 <h4 align="center">Main computer specs</h4>
 
 + CPU: Ryzen 5 5500
-+ RAM: 32 GB DDR4 
++ RAM: 32 GB DDR4 @ 2667 MHz
 + GPU: Radeon RX 6600 8 GB
 + SSD: 512 GB M.2 NVMe
 + HDD: 2 TB
