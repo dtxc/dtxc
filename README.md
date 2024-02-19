@@ -40,7 +40,7 @@ currently learning tensorflow
 
 + CPU: Ryzen 5 5500
 + RAM: 32 GB DDR4 @ 2667 MHz
-+ GPU: Radeon RX 6600 8 GB
++ GPU: PowerColor Radeon RX 6600 8 GB
 + SSD: 512 GB M.2 NVMe
 + HDD: 2 TB
 
@@ -58,3 +58,4 @@ currently learning tensorflow
 
 + Discord: dtxc
 + Telegram: dtxc0
++ Instagram: nick.p.69420
