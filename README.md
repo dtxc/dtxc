@@ -7,7 +7,7 @@ currently learning tensorflow
 
 ![](https://komarev.com/ghpvc/?username=dtxc)
 <hr>
-<h3 align="center">Languages (most experience to least)</h3>
+<h3 align="center">Languages ranked by experience</h3>
 
 + Python
 + C
@@ -18,7 +18,7 @@ currently learning tensorflow
 
 <br>
 
-<h3 align="center">Projects (best to worst, imo)</h3>
+<h3 align="center">Best projects</h3>
 
 + [Reflect os](https://github.com/dtxc/reflect-os) <sub>discontinued</sub>
 + [Memory editor](https://github.com/dtxc/memory-editor)
