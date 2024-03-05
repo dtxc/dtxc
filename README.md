@@ -39,7 +39,7 @@ currently learning tensorflow
 <h4 align="center">Main computer specs</h4>
 
 + CPU: Ryzen 5 5500
-+ RAM: 32 GB DDR4 @ 3200 MHz (oc) 18-19-19-42
++ RAM: 32 GB DDR4 @ 3200 MT/s (oc) 18-19-19-42
 + GPU: PowerColor Radeon RX 6600 8 GB
 + SSD: 512 GB M.2 NVMe
 + HDD: 2 TB 3.5" 7200 RPM
