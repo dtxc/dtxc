@@ -26,8 +26,6 @@ currently learning tensorflow
 + [Zipbomb generator](https://github.com/dtxc/zipbomb-generator) <sub>might be very simple, but yet its one of my favorites</sub>
 + Halium port for redmi 8 <sub>didn't go very well</sub>
 + Dualshock 4 driver for linux
-+ [Video generator](https://github.com/dtxc/video-generator)
-+ [Osu droid mod](https://github.com/dtxc/osu-droid-mod)
 
 <br>
 
