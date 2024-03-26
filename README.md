@@ -1,8 +1,6 @@
 <h2 align="center">Who am I?</h2>
 Low level programmer and android app developer (jetpack compose). I code in 6 languages which are listed below and I have 4 years of experience. Mostly inactive on github. 
 <br>
-currently learning tensorflow 
-<br>
 <br>
 
 ![](https://komarev.com/ghpvc/?username=dtxc)
