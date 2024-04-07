@@ -23,7 +23,7 @@ Low level programmer and android app developer (jetpack compose). I code in 6 la
 + Discord oauth2 joiner bot
 + [Zipbomb generator](https://github.com/dtxc/zipbomb-generator) <sub>might be very simple, but yet its one of my favorites</sub>
 + Halium port for redmi 8 <sub>didn't go very well</sub>
-+ Dualshock 4 driver for linux
++ [Dualsense 5 driver for linux](https://github.com/dtxc/ds5_linux)
 
 <br>
 
