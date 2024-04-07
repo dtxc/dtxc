@@ -37,7 +37,7 @@ Low level programmer and android app developer (jetpack compose). I code in 6 la
 + CPU: Ryzen 5 5500
 + RAM: 32 GB DDR4 @ 3600 MT/s (oc) 22-24-24-46
 + GPU: PowerColor Radeon RX 6600 8 GB
-+ SSD: 512 GB M.2 NVMe
++ SSD: 512 + 256 GB M.2 NVMe
 + HDD: 2 TB 3.5" 7200 RPM
 + MB:  ASRock A520M-HVS
 
