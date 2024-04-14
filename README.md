@@ -1,6 +1,9 @@
-<h2 align="center">Who am I?</h2>
-Low level programmer and android app developer (jetpack compose). I code in 6 languages which are listed below and I have 4 years of experience. Mostly inactive on github. 
-<br>
+<h2 align="center">About me</h2>
+
++ Low level software engineer
++ Android app developer
++ Win32 app developer
++ Reverse engineer
 <br>
 
 ![](https://komarev.com/ghpvc/?username=dtxc)
