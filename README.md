@@ -32,7 +32,17 @@ Low level programmer and android app developer (jetpack compose). I code in 6 la
 
 <hr>
 
-<h4 align="center">Main computer specs</h4>
+<h3 align="center">Operating systems</h3>
+
+![Windows](https://img.shields.io/badge/Windows-Expert-blue?style=flat&logo=windows)
+![Android](https://img.shields.io/badge/Android-Expert-blue?style=flat&logo=android)
+![Debian](https://img.shields.io/badge/Debian-Expert-blue?style=flat&logo=debian)
+![Arch](https://img.shields.io/badge/Arch-Expert-blue?style=flat&logo=arch-linux)
+![Gentoo](https://img.shields.io/badge/Gentoo-Intermediate-yellow?style=flat&logo=gentoo)
+
+<hr>
+
+<h3 align="center">Main computer specs</h3>
 
 + CPU: Ryzen 5 5500
 + RAM: 32 GB DDR4 @ 3600 MT/s (oc) 22-24-24-46
@@ -41,7 +51,7 @@ Low level programmer and android app developer (jetpack compose). I code in 6 la
 + HDD: 2 TB 3.5" 7200 RPM
 + MB:  ASRock A520M-HVS
 
-<h4 align="center">Other devices</h4>
+<h3 align="center">Other devices</h3>
 
 + HP Laptop 15-da0xxx
 + Redmi K20 pro/Mi 9T pro (raphael)
