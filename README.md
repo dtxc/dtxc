@@ -57,6 +57,7 @@
 <h3 align="center">Other devices</h3>
 
 + HP Laptop 15-da0xxx
++ Samsung Galaxy A54 5G
 + Redmi K20 pro/Mi 9T pro (raphael)
 + Redmi 8 (olive)
 + Samsung galaxy j3 2016
