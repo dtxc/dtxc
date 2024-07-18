@@ -69,4 +69,4 @@
 
 + Discord: dtxc
 + Telegram: dtxc0
-+ Instagram: nick.p.69420
++ Instagram: nickoncrack199
