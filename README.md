@@ -21,7 +21,7 @@
 
 <h3 align="center">Best projects</h3>
 
-+ [Reflect os](https://github.com/dtxc/reflect-os) <sub>discontinued</sub>
++ [Reflect os](https://github.com/dtxc/osdev) <sub>discontinued</sub>
 + [Memory editor](https://github.com/dtxc/memory-editor)
 + Discord oauth2 joiner bot
 + [Zipbomb generator](https://github.com/dtxc/zipbomb-generator) <sub>might be very simple, but yet its one of my favorites</sub>
