@@ -1,30 +1,28 @@
 <h2 align="center">About me</h2>
 
-+ Low level software engineer
-+ Android app developer
-+ Win32 app developer
-+ Reverse engineer
+I am a 16 year old self taught programmer from Greece and I've always dreamt of becoming a programmer. Started at 12 years old with python making discord bots. Fast forward 1 year later I started making malware in c++, and at 14 I started working on my own operating system alongside other projects, some of which are listed below.
+
+TL;DR I am showing off my abilities.
 <br>
 
 ![](https://komarev.com/ghpvc/?username=dtxc)
 <hr>
 <h3 align="center">Languages ranked by experience</h3>
 
-+ Python
 + C
++ Python
 + C++
-+ Kotlin
 + Assembly
-+ Java
++ Kotlin (minimal experience with android apps)
 
 <br>
 
 <h3 align="center">Best projects</h3>
 
-+ [Operating system](https://github.com/dtxc/osdev)
++ [Radiant OS](https://github.com/dtxc/osdev)
 + [Memory editor](https://github.com/dtxc/memory-editor)
 + Discord oauth2 joiner bot
-+ [Zipbomb generator](https://github.com/dtxc/zipbomb-generator) <sub>might be very simple, but yet its one of my favorites</sub>
++ [Zipbomb generator](https://github.com/dtxc/zipbomb-generator) <sub>might be simple, yet its one of my favorites</sub>
 + [Dualsense 5 driver for linux](https://github.com/dtxc/ds5_linux)
 
 <br>
@@ -39,8 +37,7 @@
 ![Windows](https://img.shields.io/badge/Windows-Expert-blue?style=flat&logo=windows)
 ![Android](https://img.shields.io/badge/Android-Expert-blue?style=flat&logo=android)
 ![Debian](https://img.shields.io/badge/Debian-Expert-blue?style=flat&logo=debian)
-![Arch](https://img.shields.io/badge/Arch-Expert-blue?style=flat&logo=arch-linux)
-![Gentoo](https://img.shields.io/badge/Gentoo-Intermediate-yellow?style=flat&logo=gentoo)
+![Arch](https://img.shields.io/badge/Arch-Intermediate-yellow?style=flat&logo=arch-linux)
 
 <hr>
 
@@ -55,7 +52,6 @@
 
 <h3 align="center">Other devices</h3>
 
-+ HP Laptop 15-da0xxx
 + Samsung Galaxy A54 5G
 + Redmi K20 pro/Mi 9T pro (raphael)
 + Redmi 8 (olive)
