@@ -25,7 +25,6 @@
 + [Memory editor](https://github.com/dtxc/memory-editor)
 + Discord oauth2 joiner bot
 + [Zipbomb generator](https://github.com/dtxc/zipbomb-generator) <sub>might be very simple, but yet its one of my favorites</sub>
-+ Halium port for redmi 8 <sub>didn't go very well</sub>
 + [Dualsense 5 driver for linux](https://github.com/dtxc/ds5_linux)
 
 <br>
