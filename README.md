@@ -20,6 +20,7 @@ TL;DR I am showing off my abilities.
 <h3 align="center">Best projects</h3>
 
 + [Radiant OS](https://github.com/dtxc/osdev)
++ [skbd-fs](https://github.com/dtxc/skbd-fs)
 + [Memory editor](https://github.com/dtxc/memory-editor)
 + Discord oauth2 joiner bot
 + [Zipbomb generator](https://github.com/dtxc/zipbomb-generator) <sub>might be simple, yet its one of my favorites</sub>
